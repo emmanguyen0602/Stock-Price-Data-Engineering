@@ -2,7 +2,7 @@
 ## Introduction
 
 In this first project, I will create make an ETL process to get information and analyze prices of stocks. The ETL pipeline will insert new batches of data once a day. 
-I’ll create the first ETL pipeline using Airflow to populate Google Cloud Storage and BigQuery with the first large batch of VNDIRECT prices. The second ETL pipeline will be scheduled to run once a day and insert new rates into BigQuery.
+I’ll create the first ETL pipeline using Airflow to populate Google Cloud Storage and BigQuery with the first large batch of VNDIRECT prices. The second ETL pipeline will be scheduled to run once a day and insert new price into BigQuery.
 
 And the data will be connected with Google Data Studio (Looker Studio) for furthur analysis. 
 
