@@ -16,3 +16,6 @@ And the data will be connected with Google Data Studio (Looker Studio) for furth
 ### Pipeline 2: 
 
 ![pipeline 2](https://github.com/emmanguyen0602/Stock-Price-Data-Engineering/blob/main/image/pipeline%202.png)
+
+### Docker:
+![docker](https://github.com/emmanguyen0602/Stock-Price-Data-Engineering/blob/main/image/docker.png)
